@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Oblivion Sword",
+    "description": "The first Oblivion Sword addon.",
+    "uuid": "7bf21d86-0016-47e4-99ab-1be8ded8301d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "0cd7992c-e51f-420f-b597-76b112c4d04d",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "8636da5e-6086-4334-bd0a-270f28eb1a3f",
+      "version": [1, 0, 0]
+    }
+  ]
+}

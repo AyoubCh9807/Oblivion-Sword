@@ -1,0 +1,8 @@
+{
+  "resource_pack_name": "Oblivion Sword Resources",
+  "texture_data": {
+    "oblivion_sword": {
+      "textures": "textures/items/oblivion_sword"
+    }
+  }
+}
