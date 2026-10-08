@@ -1,4 +1,4 @@
-{   
+{
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -9,7 +9,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[json]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "vscode.json-language-features"
     },
     "git.ignoreLimitWarning": true,
     "editor.formatOnSave": true,
@@ -19,9 +19,9 @@
         "**/build": true
     },
     "files.exclude": {
-        "**/.git": true,    
+        "**/.git": true,
         "**/.DS_Store": true,
-        "**/node_modules": true, 
+        "**/node_modules": true,
         "**/build": true
     },
     "cSpell.words": [
